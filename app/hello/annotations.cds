@@ -1,0 +1,1 @@
+using HelloService as service from '../../srv/hello_srv';

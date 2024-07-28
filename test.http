@@ -1,0 +1,5 @@
+POST http://localhost:4004/rest/plain/highestValue
+Content-Type: application/json
+
+[1, -10, 20, 32]
+
